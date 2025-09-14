@@ -1,0 +1,3 @@
+enum Token {
+    NUMBER, PLUS, MINUS, TIMES, DIVIDE, LPAREN, RPAREN, EOF
+}
